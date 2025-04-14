@@ -1,1 +1,32 @@
 
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/blog/seo-strategy-2025"
+  },
+  "headline": "Top SEO Strategy Trends for 2025",
+  "description": "Explore the latest SEO strategies for 2025, including AI, Core Web Vitals, and semantic search.",
+  "image": [
+    "https://example.com/images/seo-strategy-2025.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Iko A.",
+    "url": "https://example.com/about-the-author"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SEO Pulse",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "datePublished": "2025-04-01T08:00:00+00:00",
+  "dateModified": "2025-04-02T10:30:00+00:00",
+  "articleBody": "This is a sample placeholder for the blog post body. While Google doesn’t require full article content in schema, including a summary here helps contextualize the page. Focus on helpful content, E-E-A-T, and keyword optimization for better SEO results in 2025."
+}
