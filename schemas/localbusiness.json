@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "SEO Pulse",
+  "image": "https://example.com/images/office-front.jpg",
+  "url": "https://example.com",
+  "logo": "https://example.com/logo.png",
+  "description": "SEO Pulse is a digital marketing agency specializing in SEO, content strategy, and web analytics, serving clients in Tbilisi and beyond.",
+  "telephone": "+995-32-123-4567",
+  "email": "contact@example.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 Digital Way",
+    "addressLocality": "Tbilisi",
+    "addressRegion": "Tbilisi",
+    "postalCode": "0102",
+    "addressCountry": "GE"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 41.7151,
+    "longitude": 44.8271
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "10:00",
+      "closes": "18:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.facebook.com/seopulse",
+    "https://www.linkedin.com/company/seo-pulse",
+    "https://www.instagram.com/seopulse"
+  ],
+  "priceRange": "$$",
+  "founder": {
+    "@type": "Person",
+    "name": "Iko A."
+  }
+}
