@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "SEO Manager",
+  "description": "<p>We're looking for a results-driven SEO Manager to lead our organic growth initiatives. You’ll own strategy, manage a team, and work cross-functionally to improve our search visibility.</p><ul><li>Develop and execute SEO strategies</li><li>Lead technical, on-page, and off-page initiatives</li><li>Use tools like Ahrefs, GA4, GSC</li></ul>",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "SEO Pulse",
+    "value": "SEO-MGR-2025"
+  },
+  "datePosted": "2025-04-13",
+  "validThrough": "2025-05-15T23:59",
+  "employmentType": "FULL_TIME",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "SEO Pulse",
+    "sameAs": "https://example.com",
+    "logo": "https://example.com/logo.png"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "100 Digital Way",
+      "addressLocality": "Tbilisi",
+      "postalCode": "0102",
+      "addressCountry": "GE"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": 5000,
+      "unitText": "MONTH"
+    }
+  },
+  "industry": "Digital Marketing, SEO",
+  "experienceRequirements": "3+ years in SEO or related fields",
+  "qualifications": "Knowledge of Google algorithms, structured data, site migrations, and content strategy.",
+  "responsibilities": "Own and drive all SEO activities to grow organic search performance."
+}
