@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SEO Audit Service",
+  "image": "https://example.com/images/seo-audit-service.jpg",
+  "description": "Comprehensive SEO audit for websites to identify and fix performance, technical, and on-page issues.",
+  "sku": "SEO-AUDIT-2025",
+  "brand": {
+    "@type": "Organization",
+    "name": "SEO Pulse"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "129",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "299.00",
+    "availability": "https://schema.org/InStock",
+    "url": "https://example.com/services/seo-audit"
+  }
+}
