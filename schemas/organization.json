@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "SEO Pulse",
+  "url": "https://example.com",
+  "logo": "https://example.com/images/logo.png",
+  "sameAs": [
+    "https://www.facebook.com/seopulse",
+    "https://www.instagram.com/seopulse",
+    "https://www.linkedin.com/company/seo-pulse"
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+995-32-123-4567",
+      "contactType": "customer support",
+      "areaServed": "GE",
+      "availableLanguage": ["English", "Georgian"]
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "100 Digital Way",
+    "addressLocality": "Tbilisi",
+    "postalCode": "0102",
+    "addressRegion": "Tbilisi",
+    "addressCountry": "GE"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Iko A.",
+    "url": "https://example.com/about-the-founder"
+  },
+  "foundingDate": "2015-01-10",
+  "description": "SEO Pulse is a digital marketing and SEO consulting firm helping businesses grow their online visibility through technical SEO, content strategy, and analytics.",
+  "numberOfEmployees": 12,
+  "department": [
+    {
+      "@type": "Organization",
+      "name": "SEO Department"
+    },
+    {
+      "@type": "Organization",
+      "name": "Web Development Department"
+    }
+  ]
+}
