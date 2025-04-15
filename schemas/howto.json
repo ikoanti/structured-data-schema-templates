@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How to Add Structured Data to a Web Page",
+  "description": "A simple step-by-step guide on how to implement structured data using JSON-LD on your website for better SEO.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://example.com/images/howto-structured-data.jpg",
+    "height": 800,
+    "width": 1200
+  },
+  "totalTime": "PT10M",
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0"
+  },
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "JSON-LD code snippet"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Text editor or CMS"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "url": "https://example.com/howto/add-json-ld#step1",
+      "name": "Generate JSON-LD Schema",
+      "text": "Use a schema generator or manually create your JSON-LD code based on the Schema.org type relevant to your content."
+    },
+    {
+      "@type": "HowToStep",
+      "url": "https://example.com/howto/add-json-ld#step2",
+      "name": "Insert the Code",
+      "text": "Paste the JSON-LD code into the <head> or just before the closing </body> tag of your web page."
+    },
+    {
+      "@type": "HowToStep",
+      "url": "https://example.com/howto/add-json-ld#step3",
+      "name": "Validate with Google Tools",
+      "text": "Use Google’s Rich Results Test or Schema Markup Validator to ensure there are no errors or warnings."
+    }
+  ]
+}
