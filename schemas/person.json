@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Iko A.",
+  "alternateName": "Irakli Antidze",
+  "url": "https://example.com/about-iko",
+  "image": "https://example.com/images/iko-profile.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/in/irakliantidze/",
+    "https://github.com/iko-seo",
+    "https://twitter.com/iko_a_seo"
+  ],
+  "jobTitle": "SEO Consultant & Digital Strategist",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "SEO Pulse",
+    "url": "https://example.com"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Tbilisi State University"
+  },
+  "knowsAbout": [
+    "Technical SEO",
+    "Content Strategy",
+    "Google Analytics",
+    "Schema Markup",
+    "Site Architecture"
+  ],
+  "description": "Iko A. is an experienced SEO specialist with over a decade of expertise in search engine optimization, content marketing, and web performance strategies.",
+  "nationality": "Georgian"
+}
