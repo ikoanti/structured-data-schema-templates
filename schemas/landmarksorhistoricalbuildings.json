@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LandmarksOrHistoricalBuildings",
+  "name": "Mount Auburn Cemetery",
+  "description": "Mount Auburn Cemetery, established in 1831, is recognized as the first rural cemetery in the United States and is a National Historic Landmark.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "580 Mount Auburn St",
+    "addressLocality": "Cambridge",
+    "addressRegion": "MA",
+    "postalCode": "02138",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "42.374",
+    "longitude": "-71.144"
+  },
+  "url": "https://www.mountauburn.org",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Mount_Auburn_Cemetery",
+    "https://www.findagrave.com/cemetery/91523/mount-auburn-cemetery"
+  ]
+}
