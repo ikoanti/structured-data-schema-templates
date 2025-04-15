@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://example.com/images/seo-strategy-2025-banner.jpg",
+  "url": "https://example.com/blog/seo-strategy-2025",
+  "creator": {
+    "@type": "Person",
+    "name": "Iko A."
+  },
+  "creditText": "SEO Pulse Media",
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "SEO Pulse"
+  },
+  "copyrightNotice": "© 2025 SEO Pulse. All rights reserved.",
+  "copyrightYear": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "acquireLicensePage": "https://example.com/license-info",
+  "description": "Banner image for SEO Strategy Masterclass 2025 showing analytics dashboard and search bar UI elements.",
+  "uploadDate": "2025-04-10",
+  "fileFormat": "image/jpeg",
+  "width": 1200,
+  "height": 628
+}
