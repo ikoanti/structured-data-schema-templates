@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": "SEO Audit Service",
+    "image": "https://example.com/images/seo-audit.jpg",
+    "description": "A professional SEO audit to identify technical, on-page, and content-related issues."
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "5",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Jane Smith"
+  },
+  "reviewBody": "This SEO audit was incredibly thorough and helped us boost organic traffic by 35% in just 2 months!",
+  "datePublished": "2025-04-10",
+  "publisher": {
+    "@type": "Organization",
+    "name": "SEO Reviews Hub"
+  }
+}
