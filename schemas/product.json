@@ -1,0 +1,44 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SEO Audit Service",
+  "image": [
+    "https://example.com/images/seo-audit.jpg"
+  ],
+  "description": "A comprehensive SEO audit service that identifies and resolves technical, on-page, and content-related SEO issues.",
+  "sku": "SEO-AUDIT-001",
+  "mpn": "AUD-2025",
+  "brand": {
+    "@type": "Brand",
+    "name": "SEO Pulse"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "John Doe"
+      },
+      "reviewBody": "Outstanding service! Detailed audit and actionable suggestions improved our organic traffic by 40%."
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "129"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://example.com/services/seo-audit",
+    "priceCurrency": "USD",
+    "price": "299.00",
+    "priceValidUntil": "2025-12-31",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock"
+  }
+}
