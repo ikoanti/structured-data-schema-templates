@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "How to Run an SEO Audit in 5 Steps",
+  "description": "Learn how to run a complete SEO audit, including technical checks, on-page improvements, and performance fixes — in just 5 clear steps.",
+  "thumbnailUrl": [
+    "https://example.com/videos/seo-audit-thumbnail.jpg"
+  ],
+  "uploadDate": "2025-04-12",
+  "duration": "PT8M15S",
+  "contentUrl": "https://example.com/videos/how-to-seo-audit.mp4",
+  "embedUrl": "https://www.youtube.com/embed/seo-audit-video",
+  "publisher": {
+    "@type": "Organization",
+    "name": "SEO Pulse",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/images/logo.png",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "interactionStatistic": {
+    "@type": "InteractionCounter",
+    "interactionType": {
+      "@type": "WatchAction"
+    },
+    "userInteractionCount": 3412
+  },
+  "hasPart": [
+    {
+      "@type": "Clip",
+      "name": "Step 1: Crawl the Website",
+      "startOffset": 0,
+      "endOffset": 90,
+      "url": "https://example.com/videos/how-to-seo-audit#step1"
+    },
+    {
+      "@type": "Clip",
+      "name": "Step 2: Analyze On-Page SEO",
+      "startOffset": 91,
+      "endOffset": 210,
+      "url": "https://example.com/videos/how-to-seo-audit#step2"
+    }
+  ],
+  "transcript": "https://example.com/videos/how-to-seo-audit/transcript.txt"
+}
