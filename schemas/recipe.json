@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Classic Georgian Khachapuri",
+  "image": [
+    "https://example.com/images/khachapuri.jpg"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "Iko A."
+  },
+  "datePublished": "2025-04-13",
+  "description": "A traditional Georgian dish of soft bread filled with melted cheese and topped with a runny egg. A savory national treasure!",
+  "prepTime": "PT20M",
+  "cookTime": "PT25M",
+  "totalTime": "PT45M",
+  "recipeYield": "2 servings",
+  "recipeCategory": "Main dish",
+  "recipeCuisine": "Georgian",
+  "keywords": "khachapuri, georgian food, cheese bread, traditional recipe",
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "calories": "500 calories"
+  },
+  "recipeIngredient": [
+    "2 cups flour",
+    "1 cup warm milk",
+    "1 egg",
+    "200g Sulguni cheese",
+    "1 tsp salt",
+    "1 tsp sugar",
+    "1 tsp dry yeast"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "In a bowl, combine flour, yeast, sugar, and salt. Add warm milk and mix until dough forms."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Knead the dough and let it rise for 1 hour."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Roll out the dough into an oval shape and place the cheese mixture in the center."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Fold and twist the sides to form a boat shape, then bake at 220°C for 20 minutes."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Crack an egg into the center and bake for another 5 minutes. Serve hot!"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "87"
+  }
+}
